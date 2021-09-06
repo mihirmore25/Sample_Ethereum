@@ -12,6 +12,7 @@
   "dependencies": {
     "dotenv": "^10.0.0",
     "ethereumjs-tx": "^2.1.2",
+    "tronweb": "^3.2.6",
     "web3": "^1.5.2"
   }
 }
